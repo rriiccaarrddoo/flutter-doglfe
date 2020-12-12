@@ -73,6 +73,7 @@ Widget cardItem() {
           child: Text(
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis ex sem. Praesent elit dui, iaculis at interdum eu, rutrum et mi. "),
         ),
+        // ignore: deprecated_member_use
         ButtonTheme.bar(
           child: ButtonBar(
             children: <Widget>[
